@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<left_intrinsic_parameters>0</left_intrinsic_parameters>
+<left_distortion_coefficients>0</left_distortion_coefficients>
+<right_intrinsic_parameters>0</right_intrinsic_parameters>
+<right_distortion_coefficients>0</right_distortion_coefficients>
+<R>0</R>
+<T>0</T>
+<E>0</E>
+<F>0</F>
+</opencv_storage>
